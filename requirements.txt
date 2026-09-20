@@ -2,6 +2,9 @@ Flask
 Flask-SQLAlchemy
 Flask-WTF
 Flask-Limiter
+Flask-SocketIO
 python-dotenv
 Werkzeug
 gunicorn
+simple-websocket
+psycopg2-binary
